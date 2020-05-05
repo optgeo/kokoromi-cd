@@ -6934,7 +6934,7 @@
   "sources": {
     "v": {
       "attribution": "OpenStreetMap contributors",
-      "maxzoom": 15,
+      "maxzoom": 14,
       "tiles": [
         "https://optgeo.github.io/kokoromi-cf/zxy/{z}/{x}/{y}.pbf"
       ],
