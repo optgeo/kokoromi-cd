@@ -3,7 +3,7 @@
     28.844604,
     -2.520549
   ],
-  "glyphs": "https://optgeo.github.io/kokoromi-cf/font/{fontstack}/{range}.pbf",
+  "glyphs": "https://optgeo.github.io/kokoromi-cd/font/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
@@ -6930,18 +6930,18 @@
       "type": "circle"
     }
   ],
-  "site_root": "https://optgeo.github.io/kokoromi-cf",
+  "site_root": "https://optgeo.github.io/kokoromi-cd",
   "sources": {
     "v": {
       "attribution": "OpenStreetMap contributors",
       "maxzoom": 14,
       "tiles": [
-        "https://optgeo.github.io/kokoromi-cf/zxy/{z}/{x}/{y}.pbf"
+        "https://optgeo.github.io/kokoromi-cd/zxy/{z}/{x}/{y}.pbf"
       ],
       "type": "vector"
     }
   },
-  "sprite": "https://optgeo.github.io/kokoromi-cf/sprite/sprite",
+  "sprite": "https://optgeo.github.io/kokoromi-cd/sprite/sprite",
   "version": 8,
   "zoom": 10
 }
